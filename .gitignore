@@ -1,0 +1,12 @@
+# Compiled Java files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Sensitive config
+application.properties
+
+# Temporary files
+*.log
+*.session.sql
